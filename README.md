@@ -19,11 +19,11 @@ and so on.... The list may get updates as long as I get contributions by develop
 
 ### Installation
 
-* First of all download the latest [Release](https://github.com/Mr0nline/PS-Blender/releases) of PS Blender(.zxp).
+* First of all download the latest [**Release**](https://github.com/Mr0nline/PS-Blender/releases) of PS Blender(.zxp).
 * Plugin isn't currently available as custom installer so you need to install 3rd party software called [**ZXP Installer**](https://aescripts.com/learn/zxp-installer/) in order to install plugin automatically. Just install the ZXP Installer and open **PS Blender.zxp** in the Installer and it should now show you the confirmation dialogue to install. Click on confirm and restart your photoshop.
 * Navigate to **Windows > Extensions > PS Blender** and now it should open the PS Blender.
 
-If you're having any issues regarding installation kindly submit your issue on [GitHub](https://github.com/Mr0nline/PS-Blender/issues).
+If you're having any issues regarding installation kindly submit your issue on [**GitHub**](https://github.com/Mr0nline/PS-Blender/issues).
 
 ### Notes
 
