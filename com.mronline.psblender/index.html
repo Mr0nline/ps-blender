@@ -1,0 +1,81 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+
+    <!-- Will contain Topcoat original CSS href -->
+    <link id="topcoat" rel="stylesheet" />
+    <!-- Topcoat overrides (Font, etc) -->
+    <link id="topcoat-host" rel="stylesheet" href="css/topcoat-host.css" />
+    <!-- Actual Panel styling -->
+    <link rel="stylesheet" href="css/styles.css" />
+    <!-- Font Awesome CSS -->
+    <link rel="stylesheet" href="css/fontawesome-all.css" />
+    <link rel="stylesheet" href="css/fa-solid.css" />
+    <link rel="stylesheet" href="css/fa-brands.css" />
+    <link rel="stylesheet" href="css/fa-regular.css" />
+
+    <title></title>
+</head>
+
+<body>
+    <div>
+        <h1 align="center">PS Blender </h1>
+        <!-- <button id="info_button" class="topcoat-icon-button--quiet"><i class="fas fa-info"></i></button> -->
+    </div>
+    <!-- <hr noshade="true"> -->
+    <button id="input_image" class="topcoat-notification"
+        style="height: 80px; width: 99%;border: 1.5px dashed; font-weight: bolder; background-color: transparent;"
+        ondrop="drop_image(event)" ondragover="allowDrop(event)" ondragenter="allowDropImage(event)"
+        ondragleave="leaveDropImage(event)">
+        <p style="position: absolute; opacity: 0.5; font-size: medium; font-weight: 300; bottom: 15px; left: 30%;">Drag
+            layer here</p>
+    </button>
+    <!-- <hr noshade="true"> -->
+    <div>
+        <h3 align="center">Position</h3>
+        <p>X:&nbsp<input id="position_x" type="number" step="0.01" class="topcoat-text-input"
+                placeholder="X Position (px)"></input>&nbsp&nbsp&nbsp&nbsp&nbspY:&nbsp<input id="position_y"
+                type="number" step="0.01" class="topcoat-text-input" placeholder="Y Position (px)"></input></p>
+    </div>
+    <!-- <hr noshade="true" style=""> -->
+    <div>
+        <h3 align="center">Scale</h3>
+        <p>X:&nbsp<input id="scale_x" type="number" step="0.01" class="topcoat-text-input"
+                placeholder="X Scale (%)"></input>&nbsp&nbsp&nbsp&nbsp&nbspY:&nbsp<input id="scale_y" type="number" step="0.01"
+                class="topcoat-text-input" placeholder="Y Scale (%)"></input></p>
+    </div>
+    <!-- <hr noshade="true" style=""> -->
+    <div>
+        <h3 align="center">Rotation</h3>
+        <p><input id="rotation" type="number" step="0.01" class="topcoat-text-input" placeholder="Rotation In Degree (-180 to 180)"
+                style="width: 99%;" min="-180" max="180"></p>
+    </div>
+    <!-- <hr noshade="true" style=""> -->
+    <div>
+        <h3 align="center">Transparency</h3>
+        <p><input id="transparency" type="number" class="topcoat-text-input" placeholder="Transparency in %"
+                style="width: 99%;" min="0" max="100"></p>
+    </div>
+    <div>
+        <h3 align="center">Numbers of Steps</h3>
+        <p><input id="steps" type="number" class="topcoat-text-input" placeholder="Numbers of steps (10-100 recommended)"
+                style="width: 99%;" min="1" max="200"></p>
+    </div>
+    <hr noshade="true">
+    <div>
+        <button id="preview_blend" class="topcoat-button" style="width:100%; margin-top: 1%">Preview Blend</button>
+        <button id="generate_blend" class="topcoat-button--cta" style="width:100%; height: 40px; margin-top: 2%">Generate Blend</button>
+    </div>
+    <button id="get_image_data" class="topcoat-button--cta" style="display: none;"></button>
+
+    <script src="js/libs/CSInterface.js"></script>
+    <script src="js/libs/jquery-2.0.2.min.js"></script>
+
+    <script src="js/themeManager.js"></script>
+    <script src="js/main.js"></script>
+
+</body>
+
+</html>

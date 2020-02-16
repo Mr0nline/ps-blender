@@ -1,0 +1,25 @@
+/*Your styles*/
+
+body {
+    margin: 10px;
+}
+
+
+#info_button {
+    font-size: 20px;
+    height: 36px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.topcoat-text-input {
+    width: 42%;
+    text-align: center;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button
+{
+    -webkit-appearance: none;
+    margin: 0;
+}
