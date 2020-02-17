@@ -33,17 +33,17 @@ This plugin is open source and any can contribute to make it even more better, I
 
 Just in case you want to know the status of the plugin, Below is the process model that I've made for the plugin.
 1. Design
-... Design HTML/CSS with good user experience.
-... Make Plugin as clean and small as possible.
+    * Design HTML/CSS with good user experience.
+    * Make Plugin as clean and small as possible.
 2. Prototype
-... Make working Prototype.
-... Make Basic Feature modules.
+    * Make working Prototype.
+    * Make Basic Feature modules.
 3. Development
-... Test the functionalities from all angles.
-... Optimize the final code
+    * Test the functionalities from all angles.
+    * Optimize the final code
 4. Distribution
-... Make installable .zxp and test them on various platforms.
-... Make final installation with documentations and also share it on adobe exchange sites.
+    * Make installable .zxp and test them on various platforms.
+    * Make final installation with documentations and also share it on adobe exchange sites.
 
 We're on still 1st phase and only working prototype has been made so there is much to come yet. Stay tuned for updates.
 
