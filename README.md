@@ -29,6 +29,24 @@ If you're having any issues regarding installation kindly submit your issue on [
 
 This plugin is open source and any can contribute to make it even more better, I personally recommend that if you're HTML, CSS, JS familiar person then check on source code for few moments. You might end up on contributing to this amazing project.
 
+### Status
+
+Just in case you want to know the status of the plugin, Below is the process model that I've made for the plugin.
+1. Design
+    1.1 Design HTML/CSS with good user experience.
+    1.2 Make Plugin as clean and small as possible.
+2. Prototype
+    2.1 Make working Prototype.
+    2.2 Make Basic Feature modules.
+3. Development
+    3.1 Test the functionalities from all angles.
+    3.2 Optimize the final code
+4. Distribution
+    4.1 Make installable .zxp and test them on various platforms.
+    4.2 Make final installation with documentations and also share it on adobe exchange sites.
+
+We're on still 1st phase and only working prototype has been made so there is much to come yet. Stay tuned for updates.
+
 ### Community
 
 You can ask freely about any issues, suggestions on any of our community threads from below links.
