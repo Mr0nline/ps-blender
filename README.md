@@ -46,7 +46,8 @@ Just in case you want to know the status of the plugin, Below is the process mod
     * Make final installation with documentations and also share it on adobe exchange sites.
 
 We're on still 1st phase and only working prototype has been made so there is much to come yet. Stay tuned for updates.
-Update : I've started conceptulizing the User Interface and sooner I'll update it with preview on here so fellow HTML developer can get hint on how our plugin will look like.
+
+Update : I've started conceptulizing the User Interface and sooner I'll update it with preview on here so fellow HTML developer can get hint on how our plugin will look like and also final plugin may look completely different but functionalities won't change much.
 
 ### Community
 
