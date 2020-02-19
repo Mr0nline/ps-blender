@@ -2,6 +2,10 @@
 
 PS Blender is HTML-CEP based photoshop plugin which simulates the functionalities of the very known Adobe Illustrator's **Blend Tool**.
 
+### Usage
+
+Plugin is mostly being made for cloning "Blend Tool" effect but in addition it can be used for long shadows, 3d effects and so on.
+
 ### Features
 
  Although the original blend tool is way too much complex to simulate in photoshop due to it's vector characteristics and no native references on how blends are being made, These are the features that is available now or may come later...
