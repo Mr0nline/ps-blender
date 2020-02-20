@@ -56,7 +56,6 @@ Update : I've started conceptulizing the User Interface and sooner I'll update i
 Here is the wireframe I've designed so anyone with a suitable HTML/CSS developer can give a try on designing something like this :)
 
 ![Plugin Wireframe](/extra_assets/PS_Blender_Wireframe.png)
-Format: ![Plugin Wireframe](url)
 
 ### Community
 
