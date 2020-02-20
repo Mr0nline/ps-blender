@@ -53,6 +53,11 @@ We're on still 1st phase and only working prototype has been made so there is mu
 
 Update : I've started conceptulizing the User Interface and sooner I'll update it with preview on here so fellow HTML developer can get hint on how our plugin will look like and also final plugin may look completely different but functionalities won't change much.
 
+Here is the wireframe I've designed so anyone with a suitable HTML/CSS developer can give a try on designing something like this :)
+
+![Plugin Wireframe](/extra_assets/PS_Blender_Wireframe.png)
+Format: ![Plugin Wireframe](url)
+
 ### Community
 
 You can ask freely about any issues, suggestions on any of our community threads from below links.
