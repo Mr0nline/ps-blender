@@ -53,9 +53,11 @@ We're on still 1st phase and only working prototype has been made so there is mu
 
 Update : I've started conceptulizing the User Interface and sooner I'll update it with preview on here so fellow HTML developer can get hint on how our plugin will look like and also final plugin may look completely different but functionalities won't change much.
 
-Here is the wireframe I've designed so anyone with a suitable HTML/CSS developer can give a try on designing something like this :)
+Here is the wireframe I've designed so anyone with a suitable HTML/CSS developer can give a try on designing something like this :).
 
 ![Plugin Wireframe](/extra_assets/PS_Blender_Wireframe.png)
+
+Well! The plugin doesn't need to be exactly like I've drawn and contributors are allowed to modify the layout as they want. The current CSS I used is [Topcoat CSS](http://topcoat.io/topcoat/) but it's way outdated and doesn't contain much components while I've found a new CSS called [Spectrum CSS](https://opensource.adobe.com/spectrum-css/components/actionbar/) which I personally liked since it gives native Photoshop look but I can't find proper way to use it in plugin since I'm still newbie in these stuffs. The plus thing of topcoat is it's 4 themes (dark and light) which can be adjusted by photoshop theme (See ThemeManager.js) but I don't know if Spectrum got such kind of things or not.
 
 ### Community
 
